@@ -1,0 +1,14 @@
+checkDate: false 01.01.1581
+checkDate: false 01.01.1582
+checkDate: false 01.10.1582
+checkDate: false 15.10.1582
+checkDate: true 16.10.1582
+checkDate: true 28.02.1900
+checkDate: false 29.02.1900
+checkDate: true 29.02.2000
+checkDate: true 29.02.2004
+checkDate: false 29.02.2199
+checkDate: false 01.01.2200
+checkDate: false 31.04.2000
+checkDate: false 01.13.2000
+checkDate: false 32.12.2000

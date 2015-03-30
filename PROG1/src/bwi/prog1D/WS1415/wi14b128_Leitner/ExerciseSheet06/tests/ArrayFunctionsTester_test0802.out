@@ -1,0 +1,15 @@
+sort 2: 
+enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: enter year (1582-2199): enter month (1-12): enter day (1-28): enter number of attendees: [
+abcdefgh, Saturday, January 1st 2000, 11
+bcdefgh, Wednesday, May 5th 2010, 12
+cdefgh, Tuesday, May 31st 2050, 13
+defgh, Sunday, December 31st 2090, 14
+efgh, Wednesday, February 28th 1900, 15
+]
+[
+efgh, Wednesday, February 28th 1900, 15
+abcdefgh, Saturday, January 1st 2000, 11
+bcdefgh, Wednesday, May 5th 2010, 12
+cdefgh, Tuesday, May 31st 2050, 13
+defgh, Sunday, December 31st 2090, 14
+]

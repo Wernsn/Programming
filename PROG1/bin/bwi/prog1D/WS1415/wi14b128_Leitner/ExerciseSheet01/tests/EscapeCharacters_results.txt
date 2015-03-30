@@ -1,0 +1,187 @@
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+)                               use "\n"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+)               use "\n"
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+to print a backslash (\)        use "\\"
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+)                               use "\n"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )        use "\t"
+to print a backslash (\)         use "\\"
+to print double quotes (")       use "\""
+to print single quotes (')       use "\'"
+to start a new line (
+)        use "\n"
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+to print a backslash (\)        use "\\"
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+)                               use "\n"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG2\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )        use "\t"
+to print a backslash (\)         use "\\"
+to print double quotes (")       use "\""
+to print single quotes (')       use "\'"
+to start a new line (
+)        use "\n"
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+to print a backslash (\)        use "\\"
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+)                               use "\n"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )        use "\t"
+to print a backslash (\)         use "\\"
+to print double quotes (")       use "\""
+to print single quotes (')       use "\'"
+to start a new line (
+)        use "\n"
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+escape sequence is started with a backslash: \
+to print a tab (        )       use "\t"
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+escape sequence ist started with a backslash: \
+to print a tab (        )       use "\t"
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out
+to print double quotes (")      use "\""
+to print a single quote (')     use "\'"
+to start a new line (
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+to print double quotes (")      use "\""
+to print single quotes (')      use "\'"
+to start a new line (
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\EscapeCharacters_test001.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET01\TESTS\ESCAPECHARACTERS_TEST001.MY.OUT
+FC: Keine Unterschiede gefunden
+

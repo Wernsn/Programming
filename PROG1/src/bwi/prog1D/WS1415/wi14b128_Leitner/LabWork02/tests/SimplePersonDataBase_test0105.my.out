@@ -1,0 +1,90 @@
+Welcome to the SimplePersonDatabase.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): too low!too low!too low!

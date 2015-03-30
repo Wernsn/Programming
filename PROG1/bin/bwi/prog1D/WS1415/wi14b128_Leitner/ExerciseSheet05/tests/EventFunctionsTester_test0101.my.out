@@ -1,0 +1,2 @@
+scanEvent: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: |a very very very very long title|Monday, December 31st 2012|55||
+scanEvent: enter title: enter year (1582-2199): too low!too high!enter month (10-12): too low!too high!enter day (16-31): too low!too low!enter number of attendees: |title|Saturday, October 16th 1582|0||

@@ -1,0 +1,7 @@
+scanDate: enter year (1582-2199): too low!too high!enter month (10-12): too low!too high!enter day (16-31): too low!too low! 16.10.1582
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-28): too high!too high! 28.02.1900
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-29): too high! 29.02.2000
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-28): too high! 28.02.2003
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-29): too high! 29.02.2004
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-30): too high! 30.04.2000
+scanDate: enter year (1582-2199): enter month (1-12): enter day (1-31): too high! 31.12.2000

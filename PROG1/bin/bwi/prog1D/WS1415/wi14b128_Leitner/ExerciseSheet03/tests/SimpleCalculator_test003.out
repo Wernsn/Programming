@@ -1,0 +1,16 @@
+Welcome to the SimpleCalculator
+v0=     0.00000
+v1=     0.00000
+please enter opcode (9 for usage): 
+
+1 enter a number
+2 +
+3 -
+4 *
+5 /
+0 exit
+9 display this message
+
+v0=     0.00000
+v1=     0.00000
+please enter opcode (9 for usage): Thank you for using the SimpleCalculator

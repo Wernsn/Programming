@@ -1,0 +1,56 @@
+copy: (null copied)
+original: 01.01.1581
+copied: null
+equals: false
+copy: (null copied)
+original: 01.01.1582
+copied: null
+equals: false
+copy: (null copied)
+original: 01.10.1582
+copied: null
+equals: false
+copy: (null copied)
+original: 15.10.1582
+copied: null
+equals: false
+copy: (null copied)
+original: 16.10.1582
+copied: 16.10.1582
+equals: false
+copy: (null copied)
+original: 28.02.1900
+copied: 28.02.1900
+equals: false
+copy: (null copied)
+original: 29.02.1900
+copied: null
+equals: false
+copy: (null copied)
+original: 29.02.2000
+copied: 29.02.2000
+equals: false
+copy: (null copied)
+original: 29.02.2004
+copied: 29.02.2004
+equals: false
+copy: (null copied)
+original: 29.02.2199
+copied: null
+equals: false
+copy: (null copied)
+original: 01.01.2200
+copied: null
+equals: false
+copy: (null copied)
+original: 31.04.2000
+copied: null
+equals: false
+copy: (null copied)
+original: 01.13.2000
+copied: null
+equals: false
+copy: (null copied)
+original: 32.12.2000
+copied: null
+equals: false

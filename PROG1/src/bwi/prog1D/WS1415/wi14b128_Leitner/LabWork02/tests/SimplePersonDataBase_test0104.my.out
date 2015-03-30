@@ -1,0 +1,233 @@
+Welcome to the SimplePersonDatabase.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+current settings:
+Person format: with ID
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: without id
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Lastname             Firstname            Birth
+----------------------------------------------------------------
+y                    c                    Thursday, 01.01.2015
+z                    b                    Wednesday, 01.01.2014
+x                    a                    Friday, 01.01.2016
+----------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+current settings:
+Person format: without id
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: without id
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Lastname             Firstname            Birth
+----------------------------------------------------------------------
+y                    c                    Thursday, January 1st 2015
+z                    b                    Wednesday, January 1st 2014
+x                    a                    Friday, January 1st 2016
+----------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+current settings:
+Person format: without id
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: with ID
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------------
+001 y                    c                    Thursday, January 1st 2015
+002 z                    b                    Wednesday, January 1st 2014
+003 x                    a                    Friday, January 1st 2016
+--------------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+current settings:
+Person format: with ID
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: with ID
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+

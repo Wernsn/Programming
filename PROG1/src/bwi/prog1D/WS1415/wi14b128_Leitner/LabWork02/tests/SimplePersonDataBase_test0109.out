@@ -1,0 +1,238 @@
+Welcome to the SimplePersonDatabase.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-28): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-29): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-30): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-30): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-30): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-30): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+004 ya                   ca                   Friday, 02.01.2015
+005 za                   ba                   Saturday, 01.02.2014
+006 xa                   aa                   Tuesday, 02.02.2016
+007 yaa                  caa                  Saturday, 03.01.2015
+008 zaa                  baa                  Saturday, 01.03.2014
+009 xaa                  aaa                  Thursday, 03.03.2016
+010 yaaa                 caaa                 Sunday, 04.01.2015
+011 zaaa                 baaa                 Tuesday, 01.04.2014
+012 xaaa                 aaaa                 Monday, 04.04.2016
+013 yaaaa                caaaa                Monday, 05.01.2015
+014 zaaaa                baaaa                Thursday, 01.05.2014
+015 xaaaa                aaaaa                Thursday, 05.05.2016
+016 yaaaa                caaaa                Tuesday, 06.01.2015
+017 zaaaaa               baaaaa               Sunday, 01.06.2014
+018 xaaaaa               aaaaaa               Monday, 06.06.2016
+019 yaaaaaa              caaaaaa              Wednesday, 07.01.2015
+020 zaaaaaa              baaaaaa              Tuesday, 01.07.2014
+--------------------------------------------------------------------
+20 Person(s) in database, 0 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+cannot add. database full
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+

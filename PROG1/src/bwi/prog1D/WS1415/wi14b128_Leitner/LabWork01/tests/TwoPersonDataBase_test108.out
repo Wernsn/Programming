@@ -1,0 +1,186 @@
+Welcome to TwoPersonDataBase!
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (1)enter lastname (1)please enter date of birth (1) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGS       BUNNY         Monday, 04/01/1957
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUNNY      BUGS          Monday, 04/01/1957
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 04/01/1957 BUGS       BUNNY     
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (2)enter lastname (2)please enter date of birth (2) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGS       BUNNY         Monday, 04/01/1957
+2: DONALD     DUCK       Wednesday, 12/24/1930
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUNNY      BUGS          Monday, 04/01/1957
+2: DUCK       DONALD     Wednesday, 12/24/1930
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 04/01/1957 BUGS       BUNNY     
+2: Wednesday, 12/24/1930 DONALD     DUCK      
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (1)enter lastname (1)please enter date of birth (1) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGS       BUNNY         Friday, 01/04/1957
+2: DONALD     DUCK       Wednesday, 12/24/1930
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUNNY      BUGS          Friday, 01/04/1957
+2: DUCK       DONALD     Wednesday, 12/24/1930
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Friday, 01/04/1957 BUGS       BUNNY     
+2: Wednesday, 12/24/1930 DONALD     DUCK      
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (2)enter lastname (2)please enter date of birth (2) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGS       BUNNY         Friday, 01/04/1957
+2: DAGOBERT   DUCK        Thursday, 01/01/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUNNY      BUGS          Friday, 01/04/1957
+2: DUCK       DAGOBERT    Thursday, 01/01/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Friday, 01/04/1957 BUGS       BUNNY     
+2:  Thursday, 01/01/1880 DAGOBERT   DUCK      
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: Thank you for using TwoPersonDataBase

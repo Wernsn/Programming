@@ -1,0 +1,198 @@
+Welcome to the SimplePersonDatabase.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+2 Person(s) in database, 18 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+1 Person(s) in database, 19 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: enter ID of Person to be removed: 
+Person not found (ID 10).
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+cannot remove. database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+004 yy                   cc                   Thursday, 01.01.2015
+005 zz                   bb                   Wednesday, 01.01.2014
+006 xx                   aa                   Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+

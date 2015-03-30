@@ -1,0 +1,1586 @@
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0101.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0101.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0102.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0102.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0103.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0103.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0104.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0104.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out
+--------------------------------------------------------------------
+003 x                    a                    Friday, 01.01.2016
+002 z                    b                    Wednesday, 01.01.2014
+001 y                    c                    Thursday, 01.01.2015
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+002 z                    b                    Wednesday, 01.01.2014
+001 y                    c                    Thursday, 01.01.2015
+003 x                    a                    Friday, 01.01.2016
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0105.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+003 x                    a                    Friday, 01.01.2016
+001 y                    c                    Thursday, 01.01.2015
+002 z                    b                    Wednesday, 01.01.2014
+--------------------------------------------------------------------
+3 Person(s) in database, 17 free.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0105.MY.OUT
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): too low!too low!too low!
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0106.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0106.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0107.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0107.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+003 x                    a                    Friday, 01.01.2016
+***
+1 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+001 y                    c                    Thursday, 01.01.2015
+***
+1 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: x
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+002 z                    b                    Wednesday, 01.01.2014
+***
+1 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: y
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+no matches found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: z
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: a
+
+Please re-enter: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+003 x                    a                    Friday, 01.01.2016
+***
+1 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+no matches found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: x
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+001 y                    c                    Thursday, 01.01.2015
+004 ylast                cfirst               Thursday, 01.01.2015
+***
+2 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: a
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+005 lasta                bfirst               Wednesday, 01.01.2014
+006 lastb                afirst               Friday, 01.01.2016
+***
+2 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: y
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+0) quit
+your choice: enter lastname: 
+***
+005 lasta                bfirst               Wednesday, 01.01.2014
+***
+1 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: last
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+your choice: 
+Thank you for using the SimplePersonDatabase.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: lasta
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0108.out
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0108.MY.OUT
+Please re-enter: 
+Thank you for using the SimplePersonDatabase.
+
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0109.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0109.MY.OUT
+FC: Keine Unterschiede gefunden
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: 
+ID  Lastname             Firstname            Birth
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: 
+cannot add. database full
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: 
+current settings:
+Person format: with ID
+  Date format: numeric date
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+current settings:
+Person format: without id
+  Date format: numeric date
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+current settings:
+Person format: with ID
+  Date format: numeric date
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: 
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: 
+current settings:
+Person format: without id
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+----------------------------------------------------------------
+xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+----------------------------------------------------------------
+20 Person(s) in database, 0 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+----------------------------------------------------------------
+zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+----------------------------------------------------------------
+19 Person(s) in database, 1 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+----------------------------------------------------------------------
+xaaaaaveryverylongla aaaaaaveryverylongfi Monday, June 6th 2016
+xaaaaveryverylonglas aaaaaveryverylongfir Thursday, May 5th 2016
+xaaaveryverylonglast aaaaveryverylongfirs Monday, April 4th 2016
+xaaveryverylonglastn aaaveryverylongfirst Thursday, March 3rd 2016
+xaveryverylonglastna aaveryverylongfirstn Tuesday, February 2nd 2016
+xveryverylonglastnam averyverylongfirstna Friday, January 1st 2016
+yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, January 7th 2015
+yaaaaveryverylonglas caaaaveryverylongfir Monday, January 5th 2015
+yaaaaveryverylonglas caaaaveryverylongfir Tuesday, January 6th 2015
+yaaaveryverylonglast caaaveryverylongfirs Sunday, January 4th 2015
+yaaveryverylonglastn caaveryverylongfirst Saturday, January 3rd 2015
+yaveryverylonglastna caveryverylongfirstn Friday, January 2nd 2015
+yveryverylonglastnam cveryverylongfirstna Thursday, January 1st 2015
+zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, July 1st 2014
+zaaaaaveryverylongla baaaaaveryverylongfi Sunday, June 1st 2014
+zaaaaveryverylonglas baaaaveryverylongfir Thursday, May 1st 2014
+zaaaveryverylonglast baaaveryverylongfirs Tuesday, April 1st 2014
+zaaveryverylonglastn baaveryverylongfirst Saturday, March 1st 2014
+zaveryverylonglastna baveryverylongfirstn Saturday, February 1st 2014
+zveryverylonglastnam bveryverylongfirstna Wednesday, January 1st 2014
+----------------------------------------------------------------------
+20 Person(s) in database, 0 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+----------------------------------------------------------------------
+zveryverylonglastnam bveryverylongfirstna Wednesday, January 1st 2014
+xveryverylonglastnam averyverylongfirstna Friday, January 1st 2016
+yaveryverylonglastna caveryverylongfirstn Friday, January 2nd 2015
+zaveryverylonglastna baveryverylongfirstn Saturday, February 1st 2014
+xaveryverylonglastna aaveryverylongfirstn Tuesday, February 2nd 2016
+yaaveryverylonglastn caaveryverylongfirst Saturday, January 3rd 2015
+zaaveryverylonglastn baaveryverylongfirst Saturday, March 1st 2014
+xaaveryverylonglastn aaaveryverylongfirst Thursday, March 3rd 2016
+yaaaveryverylonglast caaaveryverylongfirs Sunday, January 4th 2015
+zaaaveryverylonglast baaaveryverylongfirs Tuesday, April 1st 2014
+xaaaveryverylonglast aaaaveryverylongfirs Monday, April 4th 2016
+yaaaaveryverylonglas caaaaveryverylongfir Monday, January 5th 2015
+zaaaaveryverylonglas baaaaveryverylongfir Thursday, May 1st 2014
+xaaaaveryverylonglas aaaaaveryverylongfir Thursday, May 5th 2016
+yaaaaveryverylonglas caaaaveryverylongfir Tuesday, January 6th 2015
+zaaaaaveryverylongla baaaaaveryverylongfi Sunday, June 1st 2014
+xaaaaaveryverylongla aaaaaaveryverylongfi Monday, June 6th 2016
+yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, January 7th 2015
+zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, July 1st 2014
+----------------------------------------------------------------------
+19 Person(s) in database, 1 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, June 6th 2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, May 5th 2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, April 4th 2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, March 3rd 2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, February 2nd 2016
+003 xveryverylonglastnam averyverylongfirstna Friday, January 1st 2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, January 7th 2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, January 5th 2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, January 6th 2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, January 4th 2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, January 3rd 2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, January 2nd 2015
+001 yveryverylonglastnam cveryverylongfirstna Thursday, January 1st 2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, July 1st 2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, June 1st 2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, May 1st 2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, April 1st 2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, March 1st 2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, February 1st 2014
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, January 1st 2014
+--------------------------------------------------------------------------
+20 Person(s) in database, 0 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------------
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, January 1st 2014
+003 xveryverylonglastnam averyverylongfirstna Friday, January 1st 2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, January 2nd 2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, February 1st 2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, February 2nd 2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, January 3rd 2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, March 1st 2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, March 3rd 2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, January 4th 2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, April 1st 2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, April 4th 2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, January 5th 2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, May 1st 2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, May 5th 2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, January 6th 2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, June 1st 2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, June 6th 2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, January 7th 2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, July 1st 2014
+--------------------------------------------------------------------------
+19 Person(s) in database, 1 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+--------------------------------------------------------------------
+20 Person(s) in database, 0 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+19 Person(s) in database, 1 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter lastname: 
+***
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+001 yveryverylonglastnam cveryverylongfirstna Thursday, 01.01.2015
+***
+7 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter lastname: 
+***
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+***
+6 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: y
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter lastname: 
+***
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+***
+5 match(es) found.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: ya
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: yaa
+
+Please re-enter: enter ID of Person to be removed: 
+Person not found (ID 1).
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+002 zveryverylonglastnam bveryverylongfirstna Wednesday, 01.01.2014
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+003 xveryverylonglastnam averyverylongfirstna Friday, 01.01.2016
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+16 Person(s) in database, 4 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+020 zaaaaaaveryverylongl baaaaaaveryverylongf Tuesday, 01.07.2014
+--------------------------------------------------------------------
+17 Person(s) in database, 3 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+15 Person(s) in database, 5 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+015 xaaaaveryverylonglas aaaaaveryverylongfir Thursday, 05.05.2016
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+16 Person(s) in database, 4 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+14 Person(s) in database, 6 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+016 yaaaaveryverylonglas caaaaveryverylongfir Tuesday, 06.01.2015
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+15 Person(s) in database, 5 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+13 Person(s) in database, 7 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+010 yaaaveryverylonglast caaaveryverylongfirs Sunday, 04.01.2015
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+14 Person(s) in database, 6 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+12 Person(s) in database, 8 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+017 zaaaaaveryverylongla baaaaaveryverylongfi Sunday, 01.06.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+13 Person(s) in database, 7 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+--------------------------------------------------------------------
+11 Person(s) in database, 9 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+005 zaveryverylonglastna baveryverylongfirstn Saturday, 01.02.2014
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+12 Person(s) in database, 8 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter lastname: 
+***
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+***
+3 match(es) found.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: sort by:
+1) Firstname
+2) Birth
+all other values: lastname
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+--------------------------------------------------------------------
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+004 yaveryverylonglastna caveryverylongfirstn Friday, 02.01.2015
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+007 yaaveryverylonglastn caaveryverylongfirst Saturday, 03.01.2015
+008 zaaveryverylonglastn baaveryverylongfirst Saturday, 01.03.2014
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+012 xaaaveryverylonglast aaaaveryverylongfirs Monday, 04.04.2016
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+018 xaaaaaveryverylongla aaaaaaveryverylongfi Monday, 06.06.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+  *** Error in input: Integer value not found in input.
+  *** Expecting: Integer in the range -2147483648 to 2147483647
+  *** Discarding Input: zaa
+
+Please re-enter: 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: enter ID of Person to be removed: 
+Person not found (ID 1).
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+--------------------------------------------------------------------
+6 Person(s) in database, 14 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: 
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+--------------------------------------------------------------------
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+--------------------------------------------------------------------
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+021 Zveryverylonglastnam Bveryverylongfirstna Friday, 01.01.2010
+--------------------------------------------------------------------
+7 Person(s) in database, 13 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+--------------------------------------------------------------------
+6 Person(s) in database, 14 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+available options:
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: Firstname: Lastname: enter year (1582-2199): enter month (1-12): enter day (1-31): 
+available options:
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+006 xaveryverylonglastna aaveryverylongfirstn Tuesday, 02.02.2016
+009 xaaveryverylonglastn aaaveryverylongfirst Thursday, 03.03.2016
+011 zaaaveryverylonglast baaaveryverylongfirs Tuesday, 01.04.2014
+013 yaaaaveryverylonglas caaaaveryverylongfir Monday, 05.01.2015
+014 zaaaaveryverylonglas baaaaveryverylongfir Thursday, 01.05.2014
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+021 Zveryverylonglastnam Bveryverylongfirstna Friday, 01.01.2010
+--------------------------------------------------------------------
+7 Person(s) in database, 13 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: enter ID of Person to be removed: 
+Person not found (ID 13).
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+021 Zveryverylonglastnam Bveryverylongfirstna Friday, 01.01.2010
+--------------------------------------------------------------------
+2 Person(s) in database, 18 free.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+your choice: enter ID of Person to be removed: 
+Person not found (ID 13).
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: 
+ID  Lastname             Firstname            Birth
+--------------------------------------------------------------------
+019 yaaaaaaveryverylongl caaaaaaveryverylongf Wednesday, 07.01.2015
+021 Zveryverylonglastnam Bveryverylongfirstna Friday, 01.01.2010
+--------------------------------------------------------------------
+2 Person(s) in database, 18 free.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: 
+database empty.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+0) quit
+your choice: enter ID of Person to be removed: 
+1 Person removed.
+
+*****
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SimplePersonDataBase_test0110.out
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\LABWORK02\TESTS\SIMPLEPERSONDATABASE_TEST0110.MY.OUT
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+
+*****
+

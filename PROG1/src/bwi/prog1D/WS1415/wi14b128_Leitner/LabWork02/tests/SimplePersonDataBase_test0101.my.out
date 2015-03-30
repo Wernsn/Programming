@@ -1,0 +1,123 @@
+Welcome to the SimplePersonDatabase.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+cannot remove. database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+nothing to sort. database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+cannot find. database empty.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+illegal option.
+
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+current settings:
+Person format: with ID
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: without id
+  Date format: numeric date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: without id
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+current settings:
+Person format: with ID
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: illegal option.
+
+current settings:
+Person format: with ID
+  Date format: long date
+
+available options:
+0) return
+1) toggle Person format
+2) toggle Date format
+your choice: 
+available options:
+1) list
+2) add
+3) remove
+4) sort
+5) find
+6) settings
+0) quit
+your choice: 
+Thank you for using the SimplePersonDatabase.
+

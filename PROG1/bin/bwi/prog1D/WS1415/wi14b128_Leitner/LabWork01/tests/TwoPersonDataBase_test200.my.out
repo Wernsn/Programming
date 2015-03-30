@@ -1,0 +1,395 @@
+Welcome to TwoPersonDataBase!
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (6)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (7)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (8)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (9)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: no entries yet.
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (1)cannot keep old name!
+enter firstname (1)cannot keep old name!
+enter firstname (1)enter lastname (1)cannot keep old name!
+enter lastname (1)cannot keep old name!
+enter lastname (1)please enter date of birth (1) (yyyymmdd)invalid month (13)
+please enter date of birth (1) (yyyymmdd)invalid month (0)
+please enter date of birth (1) (yyyymmdd)invalid day (32)
+please enter date of birth (1) (yyyymmdd)invalid day (31)
+please enter date of birth (1) (yyyymmdd)invalid day (31)
+please enter date of birth (1) (yyyymmdd)invalid day (30)
+please enter date of birth (1) (yyyymmdd)invalid day (29)
+please enter date of birth (1) (yyyymmdd)invalid day (29)
+please enter date of birth (1) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGSUGSUGS BUNNY         Monday, 03/03/1919
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUNNY      BUGSUGSUGS    Monday, 03/03/1919
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 03/03/1919 BUGSUGSUGS BUNNY     
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (6)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (7)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (8)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (9)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (1)enter lastname (1)please enter date of birth (1) (yyyymmdd)invalid month (13)
+please enter date of birth (1) (yyyymmdd)invalid month (0)
+please enter date of birth (1) (yyyymmdd)invalid day (32)
+please enter date of birth (1) (yyyymmdd)invalid day (31)
+please enter date of birth (1) (yyyymmdd)invalid day (31)
+please enter date of birth (1) (yyyymmdd)invalid day (30)
+please enter date of birth (1) (yyyymmdd)invalid day (29)
+please enter date of birth (1) (yyyymmdd)invalid day (29)
+please enter date of birth (1) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGSUGSUGS BONNY         Monday, 03/03/1919
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BONNY      BUGSUGSUGS    Monday, 03/03/1919
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 03/03/1919 BUGSUGSUGS BONNY     
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (6)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (7)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (8)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (9)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (2)cannot keep old name!
+enter firstname (2)cannot keep old name!
+enter firstname (2)enter lastname (2)cannot keep old name!
+enter lastname (2)cannot keep old name!
+enter lastname (2)please enter date of birth (2) (yyyymmdd)invalid month (13)
+please enter date of birth (2) (yyyymmdd)invalid month (0)
+please enter date of birth (2) (yyyymmdd)invalid day (32)
+please enter date of birth (2) (yyyymmdd)invalid day (31)
+please enter date of birth (2) (yyyymmdd)invalid day (31)
+please enter date of birth (2) (yyyymmdd)invalid day (30)
+please enter date of birth (2) (yyyymmdd)invalid day (29)
+please enter date of birth (2) (yyyymmdd)invalid day (29)
+please enter date of birth (2) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGSUGSUGS BONNY         Monday, 03/03/1919
+2: DONALDONAL DUCK        Thursday, 01/01/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BONNY      BUGSUGSUGS    Monday, 03/03/1919
+2: DUCK       DONALDONAL  Thursday, 01/01/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 03/03/1919 BUGSUGSUGS BONNY     
+2:  Thursday, 01/01/1880 DONALDONAL DUCK      
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (6)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (7)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (8)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (9)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (2)enter lastname (2)please enter date of birth (2) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGSUGSUGS BONNY         Monday, 03/03/1919
+2: DONALDONAL DUCK          Sunday, 10/10/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BONNY      BUGSUGSUGS    Monday, 03/03/1919
+2: DUCK       DONALDONAL    Sunday, 10/10/1880
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1:    Monday, 03/03/1919 BUGSUGSUGS BONNY     
+2:    Sunday, 10/10/1880 DONALDONAL DUCK      
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (6)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (7)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (8)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: illegal option (9)
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: Thank you for using TwoPersonDataBase

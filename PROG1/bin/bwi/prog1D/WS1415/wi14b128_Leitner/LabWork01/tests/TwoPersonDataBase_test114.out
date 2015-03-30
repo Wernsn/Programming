@@ -1,0 +1,28 @@
+Welcome to TwoPersonDataBase!
+
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: enter firstname (1)enter lastname (1)please enter date of birth (1) (yyyymmdd)invalid day (30)
+please enter date of birth (1) (yyyymmdd)
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: 
+1: BUGS       BUNNY         Monday, 04/01/1957
+available options:
+1) enter data of person1
+2) enter data of person2
+3) list by firstname
+4) list by lastname
+5) list by age
+0) quit
+your choice: Thank you for using TwoPersonDataBase

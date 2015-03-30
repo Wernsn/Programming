@@ -1,0 +1,64 @@
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0101.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0101.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0101.out
+scanEvent: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: |a very very v
+ery very long title|Monday, December 31st 2012|55||
+scanEvent: enter title: enter year (1582-2199): too low!too high!enter month (10-12): too low!too high!enter day (16-31): too l
+ow!too low!enter number of attendees: |title|Saturday, October 16th 1582|0||
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0101.MY.OUT
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0501.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0501.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0501.out
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: -1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 0
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: -1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 0
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 1
+compare: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: enter title: ent
+er year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: 0
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0501.MY.OUT
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0601.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0601.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0601.out
+compare null: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: -1
+0
+1
+compare null: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: -1
+0
+1
+compare null: enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: -1
+0
+1
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0601.MY.OUT
+*****
+
+Vergleichen der Dateien D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0701.out und D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0701.MY.OUT
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EventFunctionsTester_test0701.out
+display: invalid event
+
+enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: Saturday, January 1st 200
+0, title, 1
+
+invalid event
+
+display: invalid event
+
+enter title: enter year (1582-2199): enter month (1-12): enter day (1-31): enter number of attendees: title, 5
+
+invalid event
+
+***** D:\BWI\1. SEMESTER\PROGRAMMING1\PROGRAMS\PROG1\SRC\BWI\PROG1D\WS1415\WI14B128_LEITNER\EXERCISESHEET05\TESTS\EVENTFUNCTIONSTESTER_TEST0701.MY.OUT
+*****
+
